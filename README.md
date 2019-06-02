@@ -2,7 +2,7 @@
 
 #### **PROJECT DESCRIPTION**
 
-the project is targeted to analyze the development of a Motorized Car Jack using the Car Battery(12V) . The use of hydraulics and gearing mechanisms have aided in providing support and making it easier to lift heavier loads.
+The project is targeted to analyze the development of a Motorized Car Jack using the Car Battery(12V). Hydraulics and Gearing mechanisms have been used to provide support and improve load lifting capabilities
 
 Please read the project report for more description about the project
 
