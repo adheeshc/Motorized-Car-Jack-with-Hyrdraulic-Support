@@ -6,4 +6,12 @@ the project is targeted to analyze the development of a Motorized Car Jack using
 
 Please read the project report for more description about the project
 
+#### **FILE DESCRIPTION**
+
+All CAD files have been made on SolidWorks
+
+#### **RUN DESCRIPTION**
+
+Open Project.SLDASM for the assembly
+individual Parts can be opened as per label
 
